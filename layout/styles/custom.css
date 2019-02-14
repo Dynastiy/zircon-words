@@ -1,0 +1,101 @@
+body {
+    
+    background: linear-gradient(45deg, rgb(50, 2, 2), rgb(50, 1, 1));
+}
+
+.wrapper {
+    height: auto;
+}
+.form-control {
+    border-bottom: 0.04em solid #e5e5e5ab !important;
+    background-color: transparent !important;
+    border-radius: 0px !important;
+    border: 0px;
+}
+.logOn {
+    margin-top: 3rem !important;
+    width: 30rem !important;
+    padding: 5rem 1rem;
+    margin: 0 auto;
+}
+.btnLog {
+    margin-top: 3rem;
+    width: auto !important;
+}
+.btnL {
+    width: 100%;
+    background-color: #e5e5e5ab;
+    border: none !important;
+    color: rgb(50, 1, 1);
+    font-weight: 500;
+    border-radius: 0px;
+}
+.btnL:hover {
+    background: #333 !important;
+    color: #eee;
+    transition: ease-in 1s;
+}
+
+
+/* Sign Up Page Styling */
+
+.signUp {
+    margin-top: 2rem !important;
+    width: 30rem !important;
+    padding: 2rem 2rem;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 2px 3px 10px 3px rgba(0, 0, 0, 0.5) !important;
+}
+.fC {
+    border-bottom: 0.04em solid rgb(50, 1, 1, 0.8) !important;
+    background-color: transparent !important;
+    border-radius: 0px !important;
+    border: 0px;
+}
+.btnS {
+    width: 100%;
+    background-color: rgb(50, 1, 1) ;
+    border: none !important;
+    color: #e5e5e5ab ;
+    font-weight: 500;
+    border-radius: 0px;
+}
+.btnS:hover {
+    background: #e5e5e5 !important;
+    color: rgb(50, 1, 1);
+    transition: ease-in 1s;
+}
+textarea {
+    height: 5rem !important;
+}
+.headSign {
+    letter-spacing: 5px;
+}
+
+
+/* Card Styling */
+
+.card {
+    margin: 2rem auto;
+}
+
+.cD {
+    border-radius: 0px !important;
+}
+.cT {
+    text-transform: unset;
+}
+
+.addPost {
+    width: 45rem;
+    margin: 0 auto !important;
+    padding: 10px 15px;
+}
+.aP, .aT {
+    width: 100%;
+}
+.aP {
+    padding: 10px 8px;
+    margin: 30px 0;
+}
